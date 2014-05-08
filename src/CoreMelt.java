@@ -34,7 +34,7 @@ public class CoreMelt {
             System.exit(1);
         } else
 
-
+        // test
         cores = Integer.parseInt(args[0]);
         seconds = Integer.parseInt(args[1]);
 
