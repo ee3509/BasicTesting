@@ -1,0 +1,15 @@
+[
+  {
+    "_typeName": "Person",
+    "_list": [
+      { "_firstName": "Panos",
+        "_lastName": "Pelegris",
+        "_dateOfBirth": 1982
+      },
+      { "_firstName": "Danae",
+        "_lastName": "Chris",
+        "_dateOfBirth": 1990
+      }
+    ]
+  }
+]

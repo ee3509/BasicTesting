@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CoreMelt:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CoreMelt_jar</output-path>
+    <root id="archive" name="untitled.jar">
+      <element id="module-output" name="BasicTesting" />
+    </root>
+  </artifact>
+</component>

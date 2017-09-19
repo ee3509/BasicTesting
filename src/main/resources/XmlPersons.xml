@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Persons>
+    <person>
+        <firstName>Panos</firstName>
+        <lastName>Pelegris</lastName>
+        <dob>1982</dob>
+    </person>
+    <person>
+        <firstName>Danae</firstName>
+        <lastName>Chris</lastName>
+        <dob>1990</dob>
+    </person>
+</Persons>
